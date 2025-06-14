@@ -1,2 +1,2 @@
-$ Learning Grinding
+# Learning Grinding
 Personal Self Study Repository
